@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishq dhingra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate Full stack  developer  from India</h3>
+<h5 align="center">Exploring and Learning  Devops </h5>
 - 🔭 I’m currently working on **MERN STACK**
 
 - 🌱 I’m currently learning **Full stack , Devops**
