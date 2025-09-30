@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack , Devops**
 
-<h3 align="left">Connect with me: E23VSEU1151@BENNETT.EDU.IN</h3>
+<h3 align="left">Connect with me: E23CSEU1151@BENNETT.EDU.IN</h3>
 <p align="left">
 </p>
 
