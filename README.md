@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **MERN STACK**  
 - 🌱 I’m currently learning **Full Stack, DevOps**
 
-<h3 align="left">Connect with me: E23CSEU1151@BENNETT.EDU.IN</h3>
+<h3 align="left">Connect with me:dhingratanishq58@gmail.com</h3>
 <p align="left"></p>
 
 <h3 align="left">Projects:</h3>
