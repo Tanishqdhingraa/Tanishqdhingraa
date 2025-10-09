@@ -15,7 +15,7 @@
   <li>🍽️ <b>Restaurant Frontend App</b> – UI for restaurant services</li>
   <li>🌐 <b>Portfolio App</b> – Personal portfolio website</li>
   <li>✋ <b>Code-Share</b> – Write collaborative code in real time</li>
-  <li>🗳️ <b>Voting App (Elections)</b> – A secure online election system built with <b>Node.js</b>, <b>Express</b>, and <b>MongoDB</b> featuring:
+  <li>🗳️ <b>Voting App (Elections)</b> – A secure online election system built with <b>Node.js</b>, <b>Express</b>, and <b>MongoDB
    
   </li>
 </ul>
