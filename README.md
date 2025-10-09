@@ -16,13 +16,7 @@
   <li>🌐 <b>Portfolio App</b> – Personal portfolio website</li>
   <li>✋ <b>Code-Share</b> – Write collaborative code in real time</li>
   <li>🗳️ <b>Voting App (Elections)</b> – A secure online election system built with <b>Node.js</b>, <b>Express</b>, and <b>MongoDB</b> featuring:
-    <ul>
-      <li>User authentication (JWT)</li>
-      <li>Admin dashboard for candidate management</li>
-      <li>Voter registration and verification</li>
-      <li>Real-time vote counting and result display</li>
-      <li>RESTful APIs for election and user data</li>
-    </ul>
+   
   </li>
 </ul>
 
