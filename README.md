@@ -10,8 +10,9 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li>📚 <b>Book-Hub App</b> – A book management and discovery platform</li>
-  <li>💬 <b>Chatting App</b> – Real-time chat application</li>
+  <li>📚 <b>Book-Hub App</b> – A book management and discovery platform</li>  
+  <li>💬 <b>Chatting App</b> – Real-time chat application</li>  
+  <li>🤖 <b>AI SaaS Platform</b> – Full Stack AI-powered SaaS application for intelligent content generation and analytics</li>
   <li>🍽️ <b>Restaurant Frontend App</b> – UI for restaurant services</li>
   <li>🌐 <b>Portfolio App</b> – Personal portfolio website</li>
   <li>✋ <b>Code-Share</b> – Write collaborative code in real time</li>
