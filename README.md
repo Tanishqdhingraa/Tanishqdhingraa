@@ -3,7 +3,7 @@
 <h5 align="center">Exploring and Learning DevOps</h5>
 
 - 🔭 I’m currently working on **MERN STACK**  
-- 🌱 I’m currently learning **Full Stack, DevOps**
+- 🌱 I’m currently learning  DevOps**
 
 <h3 align="left">Connect with me: dhingratanishq58@gmail.com</h3>
 <p align="left"></p>
