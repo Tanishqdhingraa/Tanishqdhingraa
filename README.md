@@ -11,13 +11,14 @@
 <h3 align="left">Projects:</h3>
 <ul>
   <li>📚 <b>Book-Hub App</b> – A book management and discovery platform</li>  
-  <li>💬 <b>Chatting App</b> – Real-time chat application</li>  
-  <li>🤖 <b>AI SaaS Platform</b> – Full Stack AI-powered SaaS application for intelligent content generation and analytics</li>
-  <li>🍽️ <b>Restaurant Frontend App</b> – UI for restaurant services</li>
-  <li>🌐 <b>Portfolio App</b> – Personal portfolio website</li>
-  <li>✋ <b>Code-Share</b> – Write collaborative code in real time</li>
-  <li>🗳️ <b>Voting App (Elections)</b> – A secure online election system built with <b>Node.js</b>, <b>Express</b>, and <b>MongoDB
-   
+<li>💬 <b>Chatting App</b> – Real-time chat application</li>  
+<li>🤖 <b>AI SaaS Platform</b> – Full Stack AI-powered SaaS application for intelligent content generation and analytics</li>
+<li>🍽️ <b>Restaurant Frontend App</b> – UI for restaurant services</li>
+<li>🌐 <b>Portfolio App</b> – Personal portfolio website</li>
+<li>✋ <b>Code-Share</b> – Write collaborative code in real time</li>
+<li>🗳️ <b>Voting App (Elections)</b> – A secure online election system built with <b>Node.js</b>, <b>Express</b>, and <b>MongoDB</b></li>
+<li>🧩 <b>Microservices Task Manager</b> – A backend project built using <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, and <b>Docker</b> following a microservices architecture for efficient task management</li>
+
   </li>
 </ul>
 
