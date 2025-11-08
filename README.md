@@ -10,10 +10,12 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li>📚 <b>Book-Hub App</b> – A book management and discovery platform <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b></li>  
-  <li>💬 <b>Chatting App</b> – Real-time chat application</li>  
-  <li>🤖 <b>AI SaaS Platform</b> – Full Stack AI-powered SaaS application for intelligent content generation and analytics</li>
-  <li>🍽️ <b>Restaurant Frontend App</b> – UI for restaurant services <b>React.js</b>  </li>
+     <li>📰 <b>NewsHub App</b> – A microservices-based news platform to read, post, and verify news using AI <b>MERN</b>, <b>Microservices</b>, <b>AI Verification</b></li>  
+<li>📚 <b>Book-Hub App</b> – A book management and discovery platform <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b></li>  
+<li>💬 <b>Chatting App</b> – Real-time chat application</li>  
+<li>🤖 <b>AI SaaS Platform</b> – Full Stack AI-powered SaaS application for intelligent content generation and analytics</li>  
+<li>🍽️ <b>Restaurant Frontend App</b> – UI for restaurant services <b>React.js</b></li>
+
   <li>🌐 <b>Portfolio App</b> – Personal portfolio website  <b>React.js</b>  </li>
   <li>✋ <b>Code-Share</b> – Write collaborative code in real time</li>
   <li>🗳️ <b>Voting App (Elections)</b> – A secure online election system built with <b>Node.js</b>, <b>Express</b>, and <b>MongoDB</b></li>
