@@ -10,7 +10,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-     <li>💬 <b>Realtime Chat Application (Microservices)</b> – A full-stack chat application using 
+     <li>💬 <b>Realtime Chat Application (Microservices)</b> – A full-stack chat application using  <b>Typescript</b>,
     <b>Node.js</b>, <b>Express</b>, <b>Socket.io</b>, <b>MongoDB</b>, <b>Redis</b>,  <b>Docker</b> and <b>AWS - deployment</b> designed with a microservices 
     architecture for scalable real-time communication.
   </li>
