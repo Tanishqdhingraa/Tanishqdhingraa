@@ -11,7 +11,7 @@
 <h3 align="left">Projects:</h3>
 <ul>
      <li>💬 <b>Realtime Chat Application (Microservices)</b> – A full-stack chat application using 
-    <b>Node.js</b>, <b>Express</b>, <b>Socket.io</b>, <b>MongoDB</b>, <b>Redis</b>, and <b>Docker</b>, designed with a microservices 
+    <b>Node.js</b>, <b>Express</b>, <b>Socket.io</b>, <b>MongoDB</b>, <b>Redis</b>,  <b>Docker</b> and <b>AWS - deployment</b> designed with a microservices 
     architecture for scalable real-time communication.
   </li>
 
@@ -20,7 +20,7 @@
     services for authentication, rides, drivers, and notifications.
   </li>
   <li>🚀 <b>StartItUp – Modern Startup Website</b> – A clean and responsive website for startups with 
-    modern UI/UX components, built using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and backend powered by 
+    modern UI/UX components, built using <b>ReactJs </b> <b>Tailwind css </b>, and backend powered by 
     <b>Node.js</b> + <b>Express</b>.
   </li>
      <li>📰 <b>NewsHub App</b> – A microservices-based news platform to read, post, and verify news using AI <b>MERN</b>, <b>Microservices</b>, <b>AI Verification</b></li>  
