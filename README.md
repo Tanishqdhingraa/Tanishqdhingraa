@@ -10,9 +10,22 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
+     <li>💬 <b>Realtime Chat Application (Microservices)</b> – A full-stack chat application using 
+    <b>Node.js</b>, <b>Express</b>, <b>Socket.io</b>, <b>MongoDB</b>, <b>Redis</b>, and <b>Docker</b>, designed with a microservices 
+    architecture for scalable real-time communication.
+  </li>
+
+  <li>🚕 <b>Rapido Backend (Microservices Architecture)</b> – A backend system inspired by Rapido/Ola 
+    workflows. Built with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, <b>Redis</b>, <b>JWT</b>, and <b>Docker</b> with individual 
+    services for authentication, rides, drivers, and notifications.
+  </li>
+  <li>🚀 <b>StartItUp – Modern Startup Website</b> – A clean and responsive website for startups with 
+    modern UI/UX components, built using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and backend powered by 
+    <b>Node.js</b> + <b>Express</b>.
+  </li>
      <li>📰 <b>NewsHub App</b> – A microservices-based news platform to read, post, and verify news using AI <b>MERN</b>, <b>Microservices</b>, <b>AI Verification</b></li>  
 <li>📚 <b>Book-Hub App</b> – A book management and discovery platform <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b></li>  
-<li>💬 <b>Chatting App</b> – Real-time chat application</li>  
+  
 <li>🤖 <b>AI SaaS Platform</b> – Full Stack AI-powered SaaS application for intelligent content generation and analytics</li>  
 <li>🍽️ <b>Restaurant Frontend App</b> – UI for restaurant services <b>React.js</b></li>
 
