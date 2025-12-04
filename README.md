@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <h5 align="center">Exploring and Learning more dept in Microservices Backend Development  </h5>
 
-- 🔭currently working on Microservices Backend Development 
+- 🔭currently working on Microservices Backend Development and Devops !!!!!! 
 
 
 <h3 align="left">Connect with me: dhingratanishq58@gmail.com</h3>
