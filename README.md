@@ -14,7 +14,8 @@
     <b>Node.js</b>, <b>Express</b>, <b>Socket.io</b>, <b>MongoDB</b>, <b>Redis</b>,<b>Rabbtmq</b>,  <b>Docker</b> ,  and <b>AWS - deployment</b> designed with a microservices 
     architecture for scalable real-time communication.
   </li>
-
+     <li>🎵 <b>Music Platform</b> – A scalable music streaming platform built using a <b>microservices architecture</b> with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, <b>Docker</b>, and <b>REST APIs</b> for user management, playlists, and media services</li>
+     
   <li>🚕 <b>Rapido Backend (Microservices Architecture)</b> – A backend system inspired by Rapido/Ola 
     workflows. Built with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, <b>Redis</b>, <b>JWT</b>, and <b>Docker</b> with individual 
     services for authentication, rides, drivers, and notifications.
@@ -26,7 +27,7 @@
      <li>📰 <b>NewsHub App</b> – A microservices-based news platform to read, post, and verify news using AI <b>MERN</b>, <b>Microservices</b>, <b>AI Verification</b></li>  
 <li>📚 <b>Book-Hub App</b> – A book management and discovery platform <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b></li>  
   
-<li>🤖 <b>AI SaaS Platform</b> – Full Stack AI-powered SaaS application for intelligent content generation and analytics</li>  
+ 
 <li>🍽️ <b>Restaurant Frontend App</b> – UI for restaurant services <b>React.js</b></li>
 
   <li>🌐 <b>Portfolio App</b> – Personal portfolio website  <b>React.js</b>  </li>
