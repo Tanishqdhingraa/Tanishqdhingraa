@@ -10,16 +10,29 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-     <li>💬 <b>Realtime Chat Application (Microservices)</b> – A full-stack chat application using  <b>Typescript</b>,
-    <b>Node.js</b>, <b>Express</b>, <b>Socket.io</b>, <b>MongoDB</b>, <b>Redis</b>,<b>Rabbtmq</b>,  <b>Docker</b> ,  and <b>AWS - deployment</b> designed with a microservices 
-    architecture for scalable real-time communication.
-  </li>
-     <li>🎵 <b>Music Platform</b> – A scalable music streaming platform built using a <b>microservices architecture</b> with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, <b>Docker</b>, and <b>REST APIs</b> for user management, playlists, and media services</li>
-     
-  <li>🚕 <b>Rapido Backend (Microservices Architecture)</b> – A backend system inspired by Rapido/Ola 
-    workflows. Built with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, <b>Redis</b>, <b>JWT</b>, and <b>Docker</b> with individual 
-    services for authentication, rides, drivers, and notifications.
-  </li>
+     <li>💬 <b>Realtime Chat Application (Microservices)</b> – A full-stack chat application using 
+  <b>TypeScript</b>, <b>Node.js</b>, <b>Express</b>, <b>Socket.io</b>, <b>MongoDB</b>, <b>Redis</b>, 
+  <b>RabbitMQ</b>, <b>Docker</b>, and <b>AWS</b>, designed with a microservices architecture 
+  for scalable real-time communication.
+</li>
+
+<li>🎵 <b>Music Platform</b> – A scalable music streaming platform built using a 
+  <b>microservices architecture</b> with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, 
+  <b>Docker</b>, and <b>REST APIs</b> for user management, playlists, and media services.
+</li>
+
+<li>🚕 <b>Rapido Backend (Microservices Architecture)</b> – A backend system inspired by 
+  Rapido/Ola workflows, built with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, 
+  <b>Redis</b>, <b>JWT</b>, and <b>Docker</b>, featuring independent services for 
+  authentication, rides, drivers, and notifications.
+</li>
+
+<li>📋 <b>Task Management System (Microservices)</b> – A distributed task management platform 
+  built using <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, <b>RabbitMQ</b>, and <b>Docker</b>, 
+  following the <b>MVC architecture</b>. Includes separate services for users, tasks, 
+  projects, and notifications with asynchronous communication via message queues.
+</li>
+
   <li>🚀 <b>StartItUp – Modern Startup Website</b> – A clean and responsive website for startups with 
     modern UI/UX components, built using <b>ReactJs </b> <b>Tailwind css </b>, and backend powered by 
     <b>Node.js</b> + <b>Express</b>.
