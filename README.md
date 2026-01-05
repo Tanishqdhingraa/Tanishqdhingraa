@@ -10,7 +10,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-     <li>💬 <b>Realtime Chat Application (Microservices)</b> – A full-stack chat application using 
+    <li>💬 <b>Realtime Chat Application (Microservices)</b> – A full-stack chat application using 
   <b>TypeScript</b>, <b>Node.js</b>, <b>Express</b>, <b>Socket.io</b>, <b>MongoDB</b>, <b>Redis</b>, 
   <b>RabbitMQ</b>, <b>Docker</b>, and <b>AWS</b>, designed with a microservices architecture 
   for scalable real-time communication.
@@ -20,6 +20,13 @@
   <b>microservices architecture</b> with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, 
   <b>Docker</b>, and <b>REST APIs</b> for user management, playlists, and media services.
 </li>
+
+<li>🤖 <b>AI Summarizer Chrome Extension</b> – A browser extension that intelligently summarizes 
+  <b>documents, web pages, and articles</b> using <b>NLP</b> and <b>AI models</b>. 
+  Built with <b>JavaScript</b>, <b>Chrome Extension APIs</b>, and a 
+  <b>Node.js backend</b>, enabling fast, accurate, and user-friendly content summarization.
+</li>
+
 
 <li>🚕 <b>Rapido Backend (Microservices Architecture)</b> – A backend system inspired by 
   Rapido/Ola workflows, built with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, 
