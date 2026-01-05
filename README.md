@@ -23,8 +23,7 @@
 
 <li>🤖 <b>AI Summarizer Chrome Extension</b> – A browser extension that intelligently summarizes 
   <b>documents, web pages, and articles 
-  Built with <b>JavaScript</b>, <b>Chrome Extension APIs</b>, and a 
-  <b>Node.js backend</b>, enabling fast, accurate, and user-friendly content summarization.
+  Built with <b>JavaScript</b>, <b>Chrome Extension APIs</b>, enabling fast, accurate, and user-friendly content summarization.
 </li>
 
 
