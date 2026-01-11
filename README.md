@@ -21,6 +21,9 @@
   <b>Docker</b>, and <b>REST APIs</b> for user management, playlists, and media services.
 </li>
 
+<li>📰 <b>NewsHub App</b> – A microservices-based news platform to read, post, and verify news using AI <b>MERN</b>, <b>Microservices</b>, <b>AI Verification</b></li>  
+<li>📚 <b>Book-Hub App</b> – A book management and discovery platform <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b></li> 
+
 <li>🤖 <b>AI Summarizer Chrome Extension</b> – A browser extension that intelligently summarizes 
   <b>documents, web pages, and articles 
   Built with <b>JavaScript</b>, <b>Chrome Extension APIs</b>, enabling fast, accurate, and user-friendly content summarization.
@@ -43,8 +46,7 @@
     modern UI/UX components, built using <b>ReactJs </b> <b>Tailwind css </b>, and backend powered by 
     <b>Node.js</b> + <b>Express</b>.
   </li>
-     <li>📰 <b>NewsHub App</b> – A microservices-based news platform to read, post, and verify news using AI <b>MERN</b>, <b>Microservices</b>, <b>AI Verification</b></li>  
-<li>📚 <b>Book-Hub App</b> – A book management and discovery platform <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b></li>  
+      
   
  
 <li>🍽️ <b>Restaurant Frontend App</b> – UI for restaurant services <b>React.js</b></li>
