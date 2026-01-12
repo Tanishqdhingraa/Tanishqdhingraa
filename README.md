@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Dhingra</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h2 align="center">A passionate Full Stack Developer from India</h2>
+
+
 <h5 align="center">Exploring and Learning more dept in Microservices Backend Development  </h5>
 
 - 🔭currently working on Microservices Backend Development and Devops !!!!!! 
