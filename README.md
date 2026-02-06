@@ -20,6 +20,16 @@
 
 ---
 
+
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,java,python,cpp,php,mongodb,postgresql,mysql,redis,rabbitmq,kafka,graphql,docker,nginx,aws,git,github,tailwind,vscode&perline=8" />
+</p>
+
+---
+
 <h2 align="center">🔥 Featured Projects</h2>
 
 <ul>
@@ -80,14 +90,6 @@
   <li>✋ <b>Code-Share</b> – Real-time collaborative coding platform</li>
   <li>🌐 <b>Portfolio Website</b></li>
 </ul>
-
----
-
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,java,python,cpp,php,mongodb,postgresql,mysql,redis,rabbitmq,kafka,graphql,docker,nginx,aws,git,github,tailwind,vscode&perline=8" />
-</p>
 
 ---
 
