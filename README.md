@@ -88,7 +88,7 @@
   <li>📚 <b>Book-Hub</b> – Book discovery & management platform</li>
   <li>🗳️ <b>Voting App</b> – Secure online election system</li>
   <li>✋ <b>Code-Share</b> – Real-time collaborative coding platform</li>
-  <li>🌐 <b>Portfolio Website</b></li>
+  
 </ul>
 
 ---
