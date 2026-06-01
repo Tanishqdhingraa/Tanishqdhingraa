@@ -1,107 +1,250 @@
-<h1 align="center">Hi 👋, I'm Tanishq Dhingra</h1>
-<h3 align="center">🚀 Full Stack Developer | Microservices & Backend Enthusiast | India</h3>
+# Hi 👋, I'm Tanishq Dhingra
+
+### 🚀 Full Stack Developer | Backend & Microservices Enthusiast | India
 
 <p align="center">
-  Passionate about building scalable backend systems, real-time applications, and 
-  production-ready microservices.
+Passionate about building scalable backend systems, distributed architectures, and real-time applications.
+I enjoy solving complex engineering problems and developing production-ready software that can scale efficiently.
 </p>
 
 <p align="center">
-  🔭 Currently deep-diving into <b>Microservices Backend Development</b> & <b>DevOps</b><br/>
-  ⚙️ Love working with distributed systems, queues, caching, and cloud deployments
-</p>
-
----
-
-<h3 align="center">📫 Connect with Me</h3>
-<p align="center">
-  📧 <b>dhingratanishq58@gmail.com</b>
+🔭 Currently focused on <b>Backend Engineering, Microservices, DevOps, and Cloud Technologies</b><br/>
+⚙️ Interested in Distributed Systems, Event-Driven Architecture, Caching, Message Queues, and System Design
 </p>
 
 ---
 
+## 📫 Connect with Me
 
-
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,java,python,cpp,php,mongodb,postgresql,mysql,redis,rabbitmq,kafka,graphql,docker,nginx,aws,git,github,tailwind,vscode&perline=8" />
-</p>
+📧 **[dhingratanishq58@gmail.com](mailto:dhingratanishq58@gmail.com)**
 
 ---
 
-<h2 align="center">🔥 Featured Projects</h2>
+## 🛠️ Languages, Technologies & Tools
 
-<ul>
-  <li>
-    💬 <b>Realtime Chat Application (Microservices)</b><br/>
-    Real-time chat system using <b>TypeScript</b>, <b>Node.js</b>, <b>Socket.io</b>, 
-    <b>MongoDB</b>, <b>Redis</b>, <b>RabbitMQ</b>, <b>Docker</b>, and <b>AWS</b>. 
-    Designed for scalable real-time communication using event-driven microservices.
-  </li>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,react,java,python,php,mongodb,postgresql,mysql,redis,docker,kubernetes,aws,nginx,git,github,tailwind,vscode&perline=8" />
+</p>
 
-  <li>
-    🎵 <b>Music Streaming Platform</b><br/>
-    A scalable microservices-based music platform built with <b>Node.js</b>, 
-    <b>Express</b>, <b>MongoDB</b>, <b>Docker</b>, and <b>REST APIs</b> supporting 
-    users, playlists, and media services.
-  </li>
+### Programming Languages
 
-  <li>
-    📰 <b>NewsHub App</b><br/>
-    A MERN-based microservices news platform enabling reading, posting, and 
-    <b>AI-powered news verification</b>.
-  </li>
+* C
+* C++
+* Java
+* JavaScript
+* TypeScript
+* Python
+* PHP
 
-  <li>
-    🤖 <b>AI Summarizer Chrome Extension</b><br/>
-    Chrome extension that intelligently summarizes <b>documents, articles, and web pages</b> 
-    using JavaScript and Chrome Extension APIs.
-  </li>
+### Backend & Microservices
 
-  <li>
-    🚕 <b>Rapido-like Backend (Microservices)</b><br/>
-    Backend system inspired by ride-hailing platforms using <b>Node.js</b>, 
-    <b>MongoDB</b>, <b>Redis</b>, <b>JWT</b>, and <b>Docker</b>. 
-    Includes Auth, Ride, Driver, and Notification services.
-  </li>
+* Node.js
+* Express.js
+* REST APIs
+* GraphQL
+* JWT Authentication
+* Microservices Architecture
+* Event-Driven Systems
 
-  <li>
-    📋 <b>Task Management System (Microservices)</b><br/>
-    Distributed task manager with <b>Node.js</b>, <b>MongoDB</b>, 
-    <b>RabbitMQ</b>, and <b>Docker</b>, featuring async communication 
-    and clean MVC design.
-  </li>
+### Databases & Caching
 
-  <li>
-    💡 <b>CodeNipped</b><br/>
-    Full-stack microservices platform for creating, managing, and sharing code snippets 
-    with scalable backend architecture.
-  </li>
+* MongoDB
+* PostgreSQL
+* MySQL
+* Redis
 
-  <li>
-    🚀 <b>StartItUp</b><br/>
-    Modern startup website built with <b>React</b>, <b>Tailwind CSS</b>, 
-    and backend powered by <b>Node.js</b> & <b>Express</b>.
-  </li>
+### Messaging & Streaming
 
-  <li>📚 <b>Book-Hub</b> – Book discovery & management platform</li>
-  <li>🗳️ <b>Voting App</b> – Secure online election system</li>
-  <li>✋ <b>Code-Share</b> – Real-time collaborative coding platform</li>
-  
-</ul>
+* RabbitMQ
+* Apache Kafka
+
+### DevOps & Cloud
+
+* Docker
+* Kubernetes
+* AWS
+* Nginx
+* CI/CD
+
+### Monitoring & Observability
+
+* Prometheus
+* Grafana
+
+### Computer Science Fundamentals
+
+* Operating Systems (OS)
+* Computer Networks (CN)
+* DBMS
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms (DSA)
+* System Design
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Tailwind CSS
 
 ---
 
-<h3 align="center">⚡ What I Focus On</h3>
+## 🔥 Featured Projects
 
-<p align="center">
-  ✔ Designing scalable microservices<br/>
-  ✔ Real-time systems & event-driven architecture<br/>
-  ✔ Clean backend architecture & APIs<br/>
-  ✔ Dockerized deployments & cloud-ready systems
-</p>
+### 💬 Realtime Chat Application (Microservices)
 
-<p align="center">
-  <i>"Build systems that scale, not just projects that run."</i>
-</p>
+Scalable real-time chat platform built using **TypeScript**, **Node.js**, **Socket.io**, **MongoDB**, **Redis**, **RabbitMQ**, **Docker**, and **AWS**.
+
+**Highlights**
+
+* Real-time messaging
+* Event-driven architecture
+* Distributed services
+* Redis caching
+* Containerized deployment
+
+---
+
+### 🎵 Music Streaming Platform
+
+Microservices-based music streaming platform built with **Node.js**, **Express**, **MongoDB**, **Docker**, and **REST APIs**.
+
+**Features**
+
+* User management
+* Playlist services
+* Media handling
+* Scalable backend architecture
+
+---
+
+### 📰 NewsHub App
+
+A MERN-based news platform enabling reading, posting, and AI-powered verification of news content.
+
+**Features**
+
+* User authentication
+* News publishing
+* AI verification module
+* Responsive UI
+
+---
+
+### 🤖 AI Summarizer Chrome Extension
+
+Chrome extension that summarizes documents, articles, and webpages using JavaScript and Chrome APIs.
+
+**Features**
+
+* Fast summarization
+* Lightweight architecture
+* Browser integration
+
+---
+
+### 🚕 Rapido-like Backend (Microservices)
+
+Ride-hailing backend inspired by modern transportation platforms.
+
+**Tech Stack**
+
+* Node.js
+* MongoDB
+* Redis
+* Docker
+* JWT Authentication
+
+**Services**
+
+* Auth Service
+* Driver Service
+* Ride Service
+* Notification Service
+
+---
+
+### 📋 Task Management System (Microservices)
+
+Distributed task management platform built with Node.js, MongoDB, RabbitMQ, and Docker.
+
+**Highlights**
+
+* Asynchronous communication
+* Clean MVC architecture
+* Service isolation
+* Queue-based processing
+
+---
+
+### 💡 CodeNipped
+
+Full-stack platform for creating, managing, and sharing code snippets.
+
+**Features**
+
+* Secure snippet storage
+* User management
+* Scalable backend architecture
+
+---
+
+### 🚀 StartItUp
+
+Modern startup showcase website built with React, Tailwind CSS, Node.js, and Express.
+
+---
+
+### 📚 Book-Hub
+
+Book discovery and management platform.
+
+### 🗳️ Voting App
+
+Secure online election and voting system.
+
+### ✋ Code-Share
+
+Real-time collaborative coding platform.
+
+---
+
+## 🎯 What I Focus On
+
+✔ Scalable Backend Systems
+
+✔ Microservices Architecture
+
+✔ Distributed Systems
+
+✔ Real-Time Applications
+
+✔ Event-Driven Design
+
+✔ Cloud-Native Development
+
+✔ Docker & Kubernetes Deployments
+
+✔ Monitoring & Observability
+
+✔ High Performance APIs
+
+✔ System Design & Scalability
+
+---
+
+## 📈 Current Learning Journey
+
+* Advanced Microservices Patterns
+* Kubernetes & Container Orchestration
+* AWS Cloud Services
+* Prometheus & Grafana Monitoring
+* Distributed Systems Design
+* High-Level & Low-Level System Design
+* Backend Performance Optimization
+
+---
+
+## ⚡ Philosophy
+
+> "Build systems that scale, not just projects that run."
