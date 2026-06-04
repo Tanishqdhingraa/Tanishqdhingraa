@@ -28,13 +28,12 @@ I enjoy solving complex engineering problems and developing production-ready sof
 
 ### Programming Languages
 
-* C
 * C++
 * Java
 * JavaScript
 * TypeScript
 * Python
-* PHP
+
 
 ### Backend & Microservices
 
@@ -61,10 +60,8 @@ I enjoy solving complex engineering problems and developing production-ready sof
 ### DevOps & Cloud
 
 * Docker
-* Kubernetes
 * AWS
 * Nginx
-* CI/CD
 
 ### Monitoring & Observability
 
