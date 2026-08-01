@@ -1,247 +1,146 @@
 # Hi 👋, I'm Tanishq Dhingra
 
-### 🚀 Full Stack Developer | Backend & Microservices Enthusiast | India
+### 🚀 Full Stack Developer | Backend Engineer | Microservices & AI Enthusiast
 
 <p align="center">
-Passionate about building scalable backend systems, distributed architectures, and real-time applications.
-I enjoy solving complex engineering problems and developing production-ready software that can scale efficiently.
-</p>
-
-<p align="center">
-🔭 Currently focused on <b>Backend Engineering, Microservices, DevOps, and Cloud Technologies</b><br/>
-⚙️ Interested in Distributed Systems, Event-Driven Architecture, Caching, Message Queues, and System Design
+Passionate about building scalable backend systems, distributed architectures, cloud-native applications, and AI-powered solutions.
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-📧 **[dhingratanishq58@gmail.com](mailto:dhingratanishq58@gmail.com)**
+📧 **dhingratanishq58@gmail.com**
 
 ---
 
-## 🛠️ Languages, Technologies & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,react,java,python,php,mongodb,postgresql,mysql,redis,docker,kubernetes,aws,nginx,git,github,tailwind,vscode&perline=8" />
-</p>
+### Languages
+C++ • Java • JavaScript • TypeScript • Python
 
-### Programming Languages
+### Backend
+Node.js • Express.js • REST APIs • GraphQL • JWT • Microservices
 
-* C++
-* Java
-* JavaScript
-* TypeScript
-* Python
+### Databases
+MongoDB • PostgreSQL • MySQL • Redis
 
-
-### Backend & Microservices
-
-* Node.js
-* Express.js
-* REST APIs
-* GraphQL
-* JWT Authentication
-* Microservices Architecture
-* Event-Driven Systems
-
-### Databases & Caching
-
-* MongoDB
-* PostgreSQL
-* MySQL
-* Redis
-
-### Messaging & Streaming
-
-* RabbitMQ
-* Apache Kafka
+### Messaging
+RabbitMQ • Apache Kafka
 
 ### DevOps & Cloud
+Docker • Kubernetes • AWS • Nginx
 
-* Docker
-* AWS
-* Nginx
+### Monitoring
+Prometheus • Grafana
 
-### Monitoring & Observability
+### AI & LLM
+- LLM Fundamentals
+- GPT • Claude • LLaMA • Mistral • Gemma
+- Hugging Face & Transformers
+- Ollama & LM Studio
+- Prompt Engineering
+- LangChain & AI Agents
+- AI Chatbot Development
 
-* Prometheus
-* Grafana
-
-### Computer Science Fundamentals
-
-* Operating Systems (OS)
-* Computer Networks (CN)
-* DBMS
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms (DSA)
-* System Design
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Tailwind CSS
+### CS Fundamentals
+DSA • OOP • DBMS • OS • Computer Networks • System Design
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
 
-### 💬 Realtime Chat Application (Microservices)
+## 🏗️ Master-Slave Database Replication Platform
+### Event-Driven Microservices Architecture
+<p align="center">
+  <img src="images/master-slave-architecture.png" width="900" alt="Master Slave Architecture"/>
+</p>
+Scalable database replication platform that synchronizes data from **PostgreSQL (Master)** to **MongoDB (Read Replica)** using **Apache Kafka** and the **Transactional Outbox Pattern**.
 
-Scalable real-time chat platform built using **TypeScript**, **Node.js**, **Socket.io**, **MongoDB**, **Redis**, **RabbitMQ**, **Docker**, and **AWS**.
+**Tech Stack**
 
-**Highlights**
+TypeScript • Node.js • Express.js • PostgreSQL • MongoDB • Apache Kafka • Redis • Docker • Docker Compose • Winston • REST APIs
 
-* Real-time messaging
-* Event-driven architecture
-* Distributed services
-* Redis caching
-* Containerized deployment
+**Architecture**
+
+- Event-Driven Microservices
+- CQRS (Write: PostgreSQL, Read: MongoDB)
+- Transactional Outbox Pattern
+- Kafka Topics & Consumer Groups
+- Dead Letter Queue (DLQ)
+- User, Product & Order Sync Services
+- Structured Logging & Graceful Shutdown
+
+---
+
+### 💬 Realtime Chat Application
+
+**TypeScript • Node.js • Socket.io • MongoDB • Redis • RabbitMQ • Docker • AWS**
+
+- Real-time messaging
+- Event-driven architecture
+- Redis caching
+- Scalable microservices
 
 ---
 
 ### 🎵 Music Streaming Platform
 
-Microservices-based music streaming platform built with **Node.js**, **Express**, **MongoDB**, **Docker**, and **REST APIs**.
+**Node.js • Express • MongoDB • Docker**
 
-**Features**
-
-* User management
-* Playlist services
-* Media handling
-* Scalable backend architecture
+- Playlist & media management
+- REST APIs
+- Microservices architecture
 
 ---
 
-### 📰 NewsHub App
+### 📰 NewsHub
 
-A MERN-based news platform enabling reading, posting, and AI-powered verification of news content.
+**MERN Stack • AI Verification**
 
-**Features**
-
-* User authentication
-* News publishing
-* AI verification module
-* Responsive UI
+- User authentication
+- News publishing
+- AI-powered verification
 
 ---
 
 ### 🤖 AI Summarizer Chrome Extension
 
-Chrome extension that summarizes documents, articles, and webpages using JavaScript and Chrome APIs.
-
-**Features**
-
-* Fast summarization
-* Lightweight architecture
-* Browser integration
+- AI-powered webpage summarization
+- Chrome Extension APIs
 
 ---
 
-### 🚕 Rapido-like Backend (Microservices)
+### 🚕 Rapido-like Backend
 
-Ride-hailing backend inspired by modern transportation platforms.
+**Node.js • MongoDB • Redis • Docker**
 
-**Tech Stack**
-
-* Node.js
-* MongoDB
-* Redis
-* Docker
-* JWT Authentication
-
-**Services**
-
-* Auth Service
-* Driver Service
-* Ride Service
-* Notification Service
+- Auth Service
+- Driver Service
+- Ride Service
+- Notification Service
 
 ---
 
-### 📋 Task Management System (Microservices)
+## 🎯 Focus Areas
 
-Distributed task management platform built with Node.js, MongoDB, RabbitMQ, and Docker.
-
-**Highlights**
-
-* Asynchronous communication
-* Clean MVC architecture
-* Service isolation
-* Queue-based processing
+- Scalable Backend Systems
+- Microservices & Distributed Systems
+- Event-Driven Architecture
+- Cloud-Native Development
+- AI Applications & LLM Integration
+- System Design
 
 ---
 
-### 💡 CodeNipped
+## 📚 Currently Learning
 
-Full-stack platform for creating, managing, and sharing code snippets.
-
-**Features**
-
-* Secure snippet storage
-* User management
-* Scalable backend architecture
-
----
-
-### 🚀 StartItUp
-
-Modern startup showcase website built with React, Tailwind CSS, Node.js, and Express.
+- Advanced Microservices Patterns
+- Kubernetes & AWS
+- Prometheus & Grafana
+- High-Level & Low-Level System Design
+- Performance Optimization
+- LangChain & AI Agents
+- Production-ready LLM Applications
 
 ---
-
-### 📚 Book-Hub
-
-Book discovery and management platform.
-
-### 🗳️ Voting App
-
-Secure online election and voting system.
-
-### ✋ Code-Share
-
-Real-time collaborative coding platform.
-
----
-
-## 🎯 What I Focus On
-
-✔ Scalable Backend Systems
-
-✔ Microservices Architecture
-
-✔ Distributed Systems
-
-✔ Real-Time Applications
-
-✔ Event-Driven Design
-
-✔ Cloud-Native Development
-
-✔ Docker & Kubernetes Deployments
-
-✔ Monitoring & Observability
-
-✔ High Performance APIs
-
-✔ System Design & Scalability
-
----
-
-## 📈 Current Learning Journey
-
-* Advanced Microservices Patterns
-* Kubernetes & Container Orchestration
-* AWS Cloud Services
-* Prometheus & Grafana Monitoring
-* Distributed Systems Design
-* High-Level & Low-Level System Design
-* Backend Performance Optimization
-
----
-
-## ⚡ Philosophy
-
-> "Build systems that scale, not just projects that run."
